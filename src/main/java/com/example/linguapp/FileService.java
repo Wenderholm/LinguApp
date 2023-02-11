@@ -1,4 +1,4 @@
-package com.example.dependencyinjectionexercise;
+package com.example.linguapp;
 
 import org.springframework.stereotype.Service;
 

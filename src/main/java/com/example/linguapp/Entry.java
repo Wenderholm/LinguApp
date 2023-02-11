@@ -1,8 +1,5 @@
-package com.example.dependencyinjectionexercise;
+package com.example.linguapp;
 
-import org.springframework.stereotype.Service;
-
-@Service
 public class Entry {
     private String original;
     private String translation;
